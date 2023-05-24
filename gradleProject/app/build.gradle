@@ -26,6 +26,9 @@ dependencies {
     // Dependency example from the module DevOps
     implementation 'com.indvd00m.ascii.render:ascii-render:2.2.0'
 
+    // JFreeChart dependency
+    implementation 'org.jfree:jfreechart:1.5.3'
+
 }
 
 application {
